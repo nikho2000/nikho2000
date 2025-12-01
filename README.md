@@ -17,6 +17,7 @@
 - Focus on **distributed systems**, **scalability**, **performance**, **networking**, **system design**
 - Strong interest in backend architectures, concurrency, infrastructure and DevOps
 - Passion for clean, maintainable and high-reliability codebases
+- Enthusiasm for **multi-platform application development** and modern UI architectures
 
 ---
 
@@ -25,6 +26,7 @@
 - Distributed architectures & messaging systems
 - High-throughput backend services
 - Proxy technologies, networking layers & reverse engineering
+- Multi-platform application development (mobile, desktop, web)
 - Performance analysis, profiling & reliability engineering
 - Clean architecture, modularity and long-term maintainability
 
@@ -39,7 +41,7 @@
 
 ### ⚙️ Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,androidstudio,dotnet,nodejs,angular" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,flutter,androidstudio,angular" />
 </p>
 
 ### 🛠 Infrastructure & Databases

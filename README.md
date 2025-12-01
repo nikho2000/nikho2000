@@ -20,34 +20,6 @@
 
 ---
 
-## 🔥 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,ts,js,dart" />
-</p>
-
-### ⚙️ Frameworks & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,angular" />
-</p>
-
-### 🛠 DevOps, Infrastructure & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,redis,rabbitmq,mongodb,postgres,git,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=nikho2000&show_icons=true&theme=tokyonight" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikho2000&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 Focus Areas
 
 - Distributed architectures & messaging systems
@@ -55,6 +27,31 @@
 - Proxy technologies, networking layers & reverse engineering
 - Performance analysis, profiling & reliability engineering
 - Clean architecture, modularity and long-term maintainability
+
+---
+
+## 🔥 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,ts,dart" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,androidstudio,dotnet,nodejs,angular" />
+</p>
+
+### 🛠 Infrastructure & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,terraform,redis,rabbitmq,kafka,mongodb,mysql,postgres,linux" />
+</p>
+
+
+### 📈 DevOps, Tooling & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,gitlab,azure,git,postman,idea" />
+</p>
 
 ---
 
